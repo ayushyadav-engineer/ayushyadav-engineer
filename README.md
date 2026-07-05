@@ -158,20 +158,6 @@ A modular web scraping application that extracts, processes, and stores website 
 
 ---
 
-## 📈 GitHub Stats
-
-> Replace `<USERNAME>` with **ayushyadav-engineer** if required by the badge provider.
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 ## 🤝 Let's Collaborate
 
 I'm always interested in collaborating on projects related to:
