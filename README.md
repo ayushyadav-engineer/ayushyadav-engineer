@@ -1,79 +1,116 @@
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Ayush Yadav**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Ayush%20Yadav&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI%20•%20Machine%20Learning%20•%20Computer%20Vision&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;Python+Developer;Computer+Science+Engineering+Undergraduate;Building+Intelligent+Software"/>
-
-**Turning ideas into intelligent software with AI, Python & Computer Vision**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;Computer+Vision+Engineer;Python+Developer;Always+Learning+Something+New"/>
 
 <p>
-<a href="https://github.com/ayushyadav-engineer"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ayushyadav-engineer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
 <a href="https://linkedin.com/in/ayushyadav45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:ay7267624@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
-<img src="https://komarev.com/ghpvc/?username=ayushyadav-engineer&style=for-the-badge&color=1F6FEB">
+<img src="https://komarev.com/ghpvc/?username=ayushyadav-engineer&style=for-the-badge&color=1F6FEB"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00E5FF&height=120&section=header"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👋 Hello
 
-```yaml
-Name: Ayush Yadav
-Role: CSE Undergraduate (7th Semester)
-Location: Faridabad, Haryana 🇮🇳
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - NLP
-  - Python Development
-Status: Open to Internships
-```
+<table>
+<tr>
+<td width="60%">
 
-> I enjoy building practical AI applications that solve real-world problems through automation, computer vision and machine learning.
+### I'm Ayush Yadav
 
-## 🌱 Currently Learning
+Computer Science Engineering Undergraduate (7th Semester, Class of 2027) passionate about building practical AI systems.
 
-🧠 Deep Learning • LLMs • Generative AI • MLOps • Advanced Python • Google AI
+I enjoy transforming ideas into software using **Python, Machine Learning, Computer Vision, NLP and Full Stack Development**.
+
+🎯 Looking for AI / ML / Software Engineering internships.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚙️ Tech Universe
+# 🚀 Current Focus
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Python Development
+- Deep Learning
+- Large Language Models
+- MLOps Fundamentals
 
-### AI & Web
-Python • Flask • OpenCV • MediaPipe • Face Recognition • Pandas • NumPy • Bootstrap • TailwindCSS
+---
 
-### Databases
-SQLite • MySQL
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,flask,mysql,sqlite,git,github,vscode,bootstrap,tailwind"/>
+</p>
+
+**Libraries**
+
+`OpenCV` • `MediaPipe` • `NumPy` • `Pandas` • `face_recognition`
 
 ---
 
 # ⭐ Featured Projects
 
-| Project | Highlights |
-|---------|------------|
-| 🤖 **SmartAttend AI** | 🚧 Active Development • Face Recognition • Automated Attendance • Python • OpenCV |
-| 👮 **Prisoner Face Detection** | Flask • SQLite • Dashboard • Real-time Recognition |
-| 😴 **Wake-Up Alert** | Driver Drowsiness Detection using MediaPipe |
-| 📰 **News Classification** | NLP • ML • Feature Extraction |
-| 🌐 **Web Scraper** | Automation • Data Collection |
-| 🍽️ **Restaurant Homepage** | Responsive Bootstrap UI |
+### 🤖 SmartAttend AI
+> **🚧 Currently under active development**
+
+AI-powered attendance automation using Face Recognition, Python and OpenCV.
 
 ---
 
-# 📊 GitHub Dashboard
+### 👮 Intelligent Face Detection System
+
+- Flask Dashboard
+- SQLite
+- Face Recognition
+- Real-time Detection
+- Image Preprocessing
+- Computer Vision
+
+---
+
+### 😴 Wake-Up Alert
+
+Driver drowsiness detection using MediaPipe and Computer Vision.
+
+---
+
+### 📰 News Classification
+
+Natural Language Processing with Machine Learning.
+
+---
+
+### 🌐 Web Scraper
+
+Automation, Data Collection and Cleaning.
+
+---
+
+### 🍽️ Restaurant Homepage
+
+Modern responsive Bootstrap website.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -81,11 +118,11 @@ SQLite • MySQL
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushyadav-engineer&theme=algolia&margin-w=10&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayushyadav-engineer&theme=algolia&no-frame=true&column=4"/>
 </p>
 
 <p align="center">
@@ -94,17 +131,18 @@ SQLite • MySQL
 
 ---
 
-## 🎯 2026 Goals
+# 🌱 Learning Roadmap
 
-- Contribute to Open Source
-- Build AI-powered SaaS projects
-- Strengthen DSA & System Design
-- Secure an AI/ML Internship
-- Publish production-ready repositories
+- Google AI Essentials
+- Deep Learning
+- Generative AI
+- LLM Applications
+- MLOps
+- Advanced Python
 
 ---
 
-## 📜 Certifications (In Progress)
+# 📜 Certifications (In Progress)
 
 - Google AI Essentials
 - Google Data Analytics
@@ -115,14 +153,34 @@ SQLite • MySQL
 
 ---
 
+# 🤝 Open Source
+
+I plan to actively contribute to AI, Machine Learning and Computer Vision projects while collaborating with developers worldwide.
+
+---
+
+# 💼 Internship
+
+> **Open to Internship opportunities in Artificial Intelligence, Machine Learning, Python and Software Engineering.**
+
+---
+
 <div align="center">
 
-### 💼 Open to AI • ML • Python • Computer Vision Internships
+### 📫 Connect
 
 📧 **ay7267624@gmail.com**
 
-⭐ *Let's build intelligent solutions together.*
+🌐 **github.com/ayushyadav-engineer**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:1F6FEB,100:0D1117&height=120&section=footer"/>
+💼 **linkedin.com/in/ayushyadav45**
+
+📍 **Faridabad, Haryana, India**
+
+---
+
+### *Let's build intelligent solutions together.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
