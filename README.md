@@ -1,107 +1,110 @@
 
-# Hi there 👋 I'm Ayush Yadav
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Undergraduate;AI+%7C+Machine+Learning+%7C+Computer+Vision;Python+Developer+%7C+Software+Engineer;Open+to+Internships+and+Collaboration" />
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Ayush Yadav**
 
-<p align="center">
-<a href="https://github.com/ayushyadav-engineer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;Python+Developer;Computer+Science+Engineering+Undergraduate;Building+Intelligent+Software"/>
+
+**Turning ideas into intelligent software with AI, Python & Computer Vision**
+
+<p>
+<a href="https://github.com/ayushyadav-engineer"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"></a>
 <a href="https://linkedin.com/in/ayushyadav45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:ay7267624@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
-<img src="https://komarev.com/ghpvc/?username=ayushyadav-engineer&style=for-the-badge&color=1f6feb">
+<a href="mailto:ay7267624@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
+<img src="https://komarev.com/ghpvc/?username=ayushyadav-engineer&style=for-the-badge&color=1F6FEB">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00E5FF&height=120&section=header"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-Computer Science Engineering undergraduate (7th Semester, graduating 2027) from Faridabad, Haryana, India.
+```yaml
+Name: Ayush Yadav
+Role: CSE Undergraduate (7th Semester)
+Location: Faridabad, Haryana 🇮🇳
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - NLP
+  - Python Development
+Status: Open to Internships
+```
 
-I enjoy building practical AI software that solves real-world problems. My interests include Artificial Intelligence, Machine Learning, Computer Vision, NLP, Data Analytics, Python Development and Software Engineering. I am actively seeking internship opportunities and open-source collaborations.
+> I enjoy building practical AI applications that solve real-world problems through automation, computer vision and machine learning.
 
 ## 🌱 Currently Learning
 
-- Google AI
-- Advanced Python
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- Large Language Models
-- MLOps Fundamentals
+🧠 Deep Learning • LLMs • Generative AI • MLOps • Advanced Python • Google AI
 
-# 💻 Tech Stack
+---
+
+# ⚙️ Tech Universe
 
 ### Languages
-Python • C • C++ • SQL • JavaScript • HTML5 • CSS3
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Libraries
-OpenCV • Flask • Pandas • NumPy • MediaPipe • face_recognition • Bootstrap • Tailwind CSS
+### AI & Web
+Python • Flask • OpenCV • MediaPipe • Face Recognition • Pandas • NumPy • Bootstrap • TailwindCSS
 
 ### Databases
 SQLite • MySQL
-
-### Tools
-Git • GitHub • VS Code • Canva • Excel • Word • PowerPoint
-
-### Core CS
-DSA • OOP • Operating Systems • DBMS • Computer Networks • Software Engineering
 
 ---
 
 # ⭐ Featured Projects
 
-## SmartAttend AI 🚧
-AI-powered attendance management system using face recognition, OpenCV and Python for real-time attendance automation.
-
-## Intelligent Face Detection System for Prisoners
-Python • Flask • SQLite • OpenCV • Face Recognition • Dashboard • Real-time Recognition • Image Preprocessing
-
-## Wake-Up Alert
-Driver drowsiness detection using MediaPipe and Computer Vision.
-
-## News Classification using NLP
-Machine Learning based news classifier using preprocessing and feature extraction.
-
-## Web Scraper
-Python automation for structured data collection and cleaning.
-
-## Restaurant Homepage
-Responsive Bootstrap based modern landing page.
+| Project | Highlights |
+|---------|------------|
+| 🤖 **SmartAttend AI** | 🚧 Active Development • Face Recognition • Automated Attendance • Python • OpenCV |
+| 👮 **Prisoner Face Detection** | Flask • SQLite • Dashboard • Real-time Recognition |
+| 😴 **Wake-Up Alert** | Driver Drowsiness Detection using MediaPipe |
+| 📰 **News Classification** | NLP • ML • Feature Extraction |
+| 🌐 **Web Scraper** | Automation • Data Collection |
+| 🍽️ **Restaurant Homepage** | Responsive Bootstrap UI |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Dashboard
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushyadav-engineer&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ayushyadav-engineer&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushyadav-engineer&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayushyadav-engineer&theme=algolia&margin-w=10&no-frame=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav-engineer&theme=github-dark"/>
 </p>
 
-> Replace the following placeholders with your generated assets after enabling them:
->
-> - Snake animation
-> - WakaTime
-> - Spotify
-> - LeetCode
-> - Codewars
+---
+
+## 🎯 2026 Goals
+
+- Contribute to Open Source
+- Build AI-powered SaaS projects
+- Strengthen DSA & System Design
+- Secure an AI/ML Internship
+- Publish production-ready repositories
 
 ---
 
-# 🎓 Certifications (In Progress)
+## 📜 Certifications (In Progress)
 
 - Google AI Essentials
 - Google Data Analytics
@@ -112,41 +115,14 @@ Responsive Bootstrap based modern landing page.
 
 ---
 
-# 🌍 Open Source Goals
+<div align="center">
 
-- Contribute to AI & ML repositories
-- Participate in Hackathons
-- Collaborate on Computer Vision projects
-- Build impactful open-source software
+### 💼 Open to AI • ML • Python • Computer Vision Internships
 
----
+📧 **ay7267624@gmail.com**
 
-# 💼 Internship
+⭐ *Let's build intelligent solutions together.*
 
-> **Open to internships in AI, Machine Learning, Computer Vision, Python Development and Software Engineering.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:1F6FEB,100:0D1117&height=120&section=footer"/>
 
----
-
-# ⚡ Fun Facts
-
-- I enjoy building AI-powered software.
-- Computer Vision fascinates me.
-- I love solving real-world problems using Python.
-- Currently exploring LLMs and Generative AI.
-
----
-
-# 📫 Connect
-
-- 📧 ay7267624@gmail.com
-- 💼 https://linkedin.com/in/ayushyadav45
-- 💻 https://github.com/ayushyadav-engineer
-- 📍 Faridabad, Haryana, India
-
----
-
-<p align="center">
-Thanks for visiting my profile.
-
-### Let's build intelligent solutions together.
-</p>
+</div>
