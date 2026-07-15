@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Ayush%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Ayush%20Yadav&fontSize=60&fontColor=ffffff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Python+Developer"/>
 
@@ -18,22 +18,22 @@
 
 <table>
 <tr>
-<td width="58%">
+<td width="56%">
 
 ## 👋 About Me
 
-Computer Science Engineering undergraduate passionate about building intelligent software using Artificial Intelligence, Machine Learning, Computer Vision, NLP and Python.
+Computer Science Engineering undergraduate focused on building intelligent software using AI, Machine Learning, Computer Vision, NLP and Python.
 
 - 🚀 Building practical AI solutions
 - 🧠 Continuous learner
 - 🤝 Open-source enthusiast
-- 💼 Open to AI / ML internships
+- 💼 Open to internships
 
 </td>
 
-<td width="42%" align="center">
+<td width="44%" align="center">
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/programming.svg" width="320" alt="Programmer Illustration"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="340" alt="Coding animation"/>
 
 </td>
 </tr>
@@ -44,32 +44,60 @@ Computer Science Engineering undergraduate passionate about building intelligent
 # 💻 TECHNOLOGY STACK
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css"/></p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css"/>
 
-### AI • Machine Learning
-`OpenCV` • `MediaPipe` • `face_recognition` • `NumPy` • `Pandas` • `Matplotlib` • `Flask`
+### AI & Data
+`OpenCV` • `MediaPipe` • `Flask` • `NumPy` • `Pandas` • `face_recognition` • `Matplotlib`
 
 ### Databases
-<p><img src="https://skillicons.dev/icons?i=mysql,sqlite"/></p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
 ### Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,tailwind"/></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,tailwind"/>
 
-### Core CS
-`DSA` • `OOP` • `Operating Systems` • `DBMS` • `Computer Networks` • `Software Engineering`
+### Core Computer Science
+`DSA` • `OOP` • `OS` • `DBMS` • `CN` • `Software Engineering`
 
 ---
 
 # ⭐ FEATURED PROJECTS
 
-| Project | Stack | Highlights |
+| 🚀 Project | Stack | Highlights |
 |:--|:--|:--|
-| 🤖 **SmartAttend AI** | Python · OpenCV · Face Recognition | 🚧 AI-powered attendance system with real-time face recognition and automated attendance. |
-| 👮 **Prisoner Face Detection System** | Flask · SQLite · OpenCV | Dashboard, facial encoding, database integration and live recognition. |
-| 😴 **Wake-Up Alert** | MediaPipe · OpenCV | Driver drowsiness detection with eye-state monitoring and alerts. |
-| 📰 **News Classification** | NLP · ML | Feature extraction, preprocessing and supervised classification. |
-| 🌐 **Web Scraper** | Python | Automated data collection, parsing and cleaning. |
-| 🍽️ **Restaurant Homepage** | HTML · CSS · Bootstrap · JavaScript | Responsive modern landing page. |
+| 🤖 **SmartAttend AI** | Python · OpenCV | Face recognition attendance with real-time automation *(In Development)* |
+| 👮 **Prisoner Face Detection** | Flask · SQLite | Recognition dashboard with preprocessing and live detection |
+| 😴 **Wake-Up Alert** | MediaPipe | Driver drowsiness monitoring |
+| 📰 **News Classification** | NLP · ML | Text classification pipeline |
+| 🌐 **Web Scraper** | Python | Automated structured data collection |
+| 🍽️ **Restaurant Homepage** | Bootstrap | Responsive modern UI |
+
+---
+
+# 🧠 CURRENT LEARNING
+
+- Deep Learning
+- Generative AI
+- Large Language Models
+- MLOps
+- Advanced Python
+
+---
+
+# 📌 HIGHLIGHTS
+
+| Focus | Status |
+|:------|:------:|
+| AI Projects | ✅ |
+| Computer Vision | ✅ |
+| Open Source | 🚀 Growing |
+| Internship Ready | ✅ |
+| Continuous Learning | ♾️ |
+
+---
+
+# 💡 DEVELOPER PHILOSOPHY
+
+> *"Build software that solves real problems, keep learning, and improve a little every day."*
 
 ---
 
@@ -79,21 +107,27 @@ Interested in collaborating on AI, Computer Vision, Python and automation projec
 
 ---
 
-<div align="center">
+## 📫 CONNECT
 
-## 💼 OPEN TO INTERNSHIPS
+<table width="100%">
+<tr>
+<td align="left">
 
-**Artificial Intelligence • Machine Learning • Computer Vision • Python • Software Engineering**
+📧 **Email**  
+ay7267624@gmail.com
 
----
+💻 **GitHub**  
+github.com/ayushyadav-engineer
 
-### 📫 CONNECT
+💼 **LinkedIn**  
+linkedin.com/in/ayushyadav45
 
-📧 **ay7267624@gmail.com**  
-💻 **github.com/ayushyadav-engineer**  
-💼 **linkedin.com/in/ayushyadav45**  
 📍 **Faridabad, Haryana, India**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24,30"/>
+</td>
+</tr>
+</table>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24,30"/>
 </div>
