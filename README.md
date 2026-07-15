@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=**AYUSH%20YADAV**&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20•%20Machine%20Learning%20•%20Computer%20Vision&descSize=20"/>
 
-# **AYUSH YADAV**
+# AYUSH YADAV
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;AI+%7C+ML+%7C+Computer+Vision;Python+Developer;Open+to+Internships"/>
 
