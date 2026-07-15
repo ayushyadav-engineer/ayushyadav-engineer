@@ -1,9 +1,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Ayush%20Yadav&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI%20•%20Machine%20Learning%20•%20Computer%20Vision&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=**AYUSH%20YADAV**&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20•%20Machine%20Learning%20•%20Computer%20Vision&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;Computer+Vision+Engineer;Python+Developer;Always+Learning+Something+New"/>
+# **AYUSH YADAV**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;AI+%7C+ML+%7C+Computer+Vision;Python+Developer;Open+to+Internships"/>
 
 <p>
 <a href="https://github.com/ayushyadav-engineer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
@@ -16,25 +18,25 @@
 
 ---
 
-# 👋 Hello
-
 <table>
 <tr>
-<td width="60%">
+<td width="58%">
 
-### I'm Ayush Yadav
+## 👋 About Me
 
-Computer Science Engineering Undergraduate (7th Semester, Class of 2027) passionate about building practical AI systems.
+Computer Science Engineering undergraduate focused on building practical AI products with **Python, Machine Learning, Computer Vision, NLP, and Full‑Stack Development**.
 
-I enjoy transforming ideas into software using **Python, Machine Learning, Computer Vision, NLP and Full Stack Development**.
-
-🎯 Looking for AI / ML / Software Engineering internships.
+- 🤖 AI & Machine Learning Enthusiast
+- 👁️ Computer Vision Explorer
+- 🧠 Continuous Learner
+- 🚀 Building real-world software
+- 💼 Open to AI / ML / Software Engineering internships
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="coding animation"/>
 
 </td>
 </tr>
@@ -42,140 +44,131 @@ I enjoy transforming ideas into software using **Python, Machine Learning, Compu
 
 ---
 
-# 🚀 Current Focus
+# 🚀 CURRENT FOCUS
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Python Development
-- Deep Learning
-- Large Language Models
-- MLOps Fundamentals
+`Artificial Intelligence` • `Machine Learning` • `Computer Vision` • `Python` • `Deep Learning` • `Generative AI` • `LLMs`
 
 ---
 
-# 💻 Tech Stack
+# 💻 TECH STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,flask,mysql,sqlite,git,github,vscode,bootstrap,tailwind"/>
 </p>
 
-**Libraries**
-
-`OpenCV` • `MediaPipe` • `NumPy` • `Pandas` • `face_recognition`
+<p align="center">
+<b>OpenCV</b> • <b>MediaPipe</b> • <b>NumPy</b> • <b>Pandas</b> • <b>face_recognition</b>
+</p>
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 SmartAttend AI
-> **🚧 Currently under active development**
+> 🚧 **Currently Under Active Development**
 
-AI-powered attendance automation using Face Recognition, Python and OpenCV.
+- AI-powered attendance automation
+- Real-time face recognition
+- Python + OpenCV
+- Intelligent attendance management
 
----
+</td>
+<td width="50%">
 
-### 👮 Intelligent Face Detection System
+### 👮 Prisoner Face Detection System
 
-- Flask Dashboard
-- SQLite
+- Flask dashboard
+- SQLite database
 - Face Recognition
-- Real-time Detection
-- Image Preprocessing
-- Computer Vision
+- Live detection & tracking
+- Image preprocessing pipeline
 
----
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 😴 Wake-Up Alert
 
-Driver drowsiness detection using MediaPipe and Computer Vision.
+- Driver drowsiness detection
+- Eye-state monitoring
+- MediaPipe + OpenCV
+- Instant alert system
 
----
+</td>
+<td>
 
 ### 📰 News Classification
 
-Natural Language Processing with Machine Learning.
+- NLP pipeline
+- Text preprocessing
+- ML classification
+- Feature extraction
 
----
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🌐 Web Scraper
 
-Automation, Data Collection and Cleaning.
+- Automated data collection
+- Data cleaning
+- Structured datasets
+- Python automation
 
----
+</td>
+<td>
 
 ### 🍽️ Restaurant Homepage
 
-Modern responsive Bootstrap website.
+- Responsive UI
+- Bootstrap
+- JavaScript
+- Modern web design
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 GitHub Analytics
+# 🎯 2026 GOALS
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=ayushyadav-engineer&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushyadav-engineer&theme=algolia&no-frame=true&column=4"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav-engineer&theme=github-dark"/>
-</p>
+- Build production-ready AI applications
+- Contribute to open source
+- Master Deep Learning & LLMs
+- Secure an AI/ML internship
+- Create impactful software
 
 ---
 
-# 🌱 Learning Roadmap
+# 🤝 OPEN SOURCE
 
-- Google AI Essentials
-- Deep Learning
-- Generative AI
-- LLM Applications
-- MLOps
-- Advanced Python
-
----
-
-# 📜 Certifications (In Progress)
-
-- Google AI Essentials
-- Google Data Analytics
-- Cisco Python Essentials
-- IBM Python for Data Science
-- HackerRank Python
-- HackerRank SQL
-
----
-
-# 🤝 Open Source
-
-I plan to actively contribute to AI, Machine Learning and Computer Vision projects while collaborating with developers worldwide.
-
----
-
-# 💼 Internship
-
-> **Open to Internship opportunities in Artificial Intelligence, Machine Learning, Python and Software Engineering.**
+Interested in collaborating on AI, Computer Vision, Python, and automation projects that solve real-world problems.
 
 ---
 
 <div align="center">
 
-### 📫 Connect
+## 💼 OPEN TO INTERNSHIPS
 
-📧 **ay7267624@gmail.com**
+**Artificial Intelligence • Machine Learning • Computer Vision • Python • Software Engineering**
 
-🌐 **github.com/ayushyadav-engineer**
+---
 
-💼 **linkedin.com/in/ayushyadav45**
+### 📫 CONNECT
 
-📍 **Faridabad, Haryana, India**
+**📧** ay7267624@gmail.com  
+**💻** github.com/ayushyadav-engineer  
+**💼** linkedin.com/in/ayushyadav45  
+**📍** Faridabad, Haryana, India
 
 ---
 
