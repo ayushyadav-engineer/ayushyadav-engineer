@@ -1,178 +1,152 @@
-<h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
 
-<h3 align="center">
-Computer Science Engineering Student | AI & ML Enthusiast | Python Developer
-</h3>
+# Hi there 👋 I'm Ayush Yadav
 
 <p align="center">
-Passionate about building intelligent software solutions using Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, and Full-Stack Web Development.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Undergraduate;AI+%7C+Machine+Learning+%7C+Computer+Vision;Python+Developer+%7C+Software+Engineer;Open+to+Internships+and+Collaboration" />
+</p>
+
+<p align="center">
+<a href="https://github.com/ayushyadav-engineer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<a href="https://linkedin.com/in/ayushyadav45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:ay7267624@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
+<img src="https://komarev.com/ghpvc/?username=ayushyadav-engineer&style=for-the-badge&color=1f6feb">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 B.Tech in Computer Science Engineering (7th Semester)
+Computer Science Engineering undergraduate (7th Semester, graduating 2027) from Faridabad, Haryana, India.
 
-🏫 Aravali College of Engineering & Management
+I enjoy building practical AI software that solves real-world problems. My interests include Artificial Intelligence, Machine Learning, Computer Vision, NLP, Data Analytics, Python Development and Software Engineering. I am actively seeking internship opportunities and open-source collaborations.
 
-📍 Faridabad, Haryana, India
+## 🌱 Currently Learning
 
-💡 Interested in
-
-- Artificial Intelligence
+- Google AI
+- Advanced Python
 - Machine Learning
+- Deep Learning
 - Computer Vision
-- Data Analytics
-- Full Stack Development
-- Software Engineering
+- Generative AI
+- Large Language Models
+- MLOps Fundamentals
 
-🌱 Currently Learning
+# 💻 Tech Stack
+
+### Languages
+Python • C • C++ • SQL • JavaScript • HTML5 • CSS3
+
+### Libraries
+OpenCV • Flask • Pandas • NumPy • MediaPipe • face_recognition • Bootstrap • Tailwind CSS
+
+### Databases
+SQLite • MySQL
+
+### Tools
+Git • GitHub • VS Code • Canva • Excel • Word • PowerPoint
+
+### Core CS
+DSA • OOP • Operating Systems • DBMS • Computer Networks • Software Engineering
+
+---
+
+# ⭐ Featured Projects
+
+## SmartAttend AI 🚧
+AI-powered attendance management system using face recognition, OpenCV and Python for real-time attendance automation.
+
+## Intelligent Face Detection System for Prisoners
+Python • Flask • SQLite • OpenCV • Face Recognition • Dashboard • Real-time Recognition • Image Preprocessing
+
+## Wake-Up Alert
+Driver drowsiness detection using MediaPipe and Computer Vision.
+
+## News Classification using NLP
+Machine Learning based news classifier using preprocessing and feature extraction.
+
+## Web Scraper
+Python automation for structured data collection and cleaning.
+
+## Restaurant Homepage
+Responsive Bootstrap based modern landing page.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushyadav-engineer&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayushyadav-engineer&theme=algolia&no-frame=true&column=4"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav-engineer&theme=github-dark"/>
+</p>
+
+> Replace the following placeholders with your generated assets after enabling them:
+>
+> - Snake animation
+> - WakaTime
+> - Spotify
+> - LeetCode
+> - Codewars
+
+---
+
+# 🎓 Certifications (In Progress)
 
 - Google AI Essentials
 - Google Data Analytics
 - Cisco Python Essentials
 - IBM Python for Data Science
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ Face Detection System for Prisoners
-
-A real-time facial recognition system developed using Flask, OpenCV, and Face Recognition for identifying prisoners from live camera feeds.
-
-**Tech Stack**
-
-`Python` `Flask` `OpenCV` `SQLite` `Face Recognition`
-
----
-
-### 📰 News Article Classification using NLP
-
-A Machine Learning application that classifies news articles into predefined categories using Natural Language Processing techniques.
-
-**Tech Stack**
-
-`Python` `Scikit-Learn` `NLTK` `Flask`
-
----
-
-### 🍽️ Restaurant Landing Page
-
-A responsive and modern restaurant website developed using HTML, CSS, and JavaScript.
-
-**Tech Stack**
-
-`HTML5` `CSS3` `JavaScript`
-
----
-
-### 🌐 WebScraper using SQLAlchemy
-
-A modular web scraping application that extracts, processes, and stores website data using SQLAlchemy ORM.
-
-**Tech Stack**
-
-`Python` `Flask` `SQLAlchemy` `BeautifulSoup`
-
----
-
-## 💻 Technical Skills
-
-### Programming Languages
-
-- Python
-- C
-- C++
-- SQL
-- JavaScript
-- HTML5
-- CSS3
-
-### Frameworks & Libraries
-
-- Flask
-- OpenCV
-- Face Recognition
-- Pandas
-- NumPy
-- MediaPipe
-- Bootstrap
-- Tailwind CSS
-
-### Databases
-
-- MySQL
-- SQLite
-
-### Tools
-
-- Git & GitHub
-- Visual Studio Code
-- Canva
-- Microsoft Excel
-- Microsoft PowerPoint
-
----
-
-## 📚 Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Software Engineering
-
----
-
-## 🏆 Certifications (In Progress)
-
-- Cisco Python Essentials
-- Google AI Essentials
-- Google Data Analytics Professional Certificate
-- IBM Python for Data Science
-- HackerRank SQL (Intermediate)
 - HackerRank Python
+- HackerRank SQL
 
 ---
 
-## 🌱 Current Focus
+# 🌍 Open Source Goals
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Data Analytics
-- Full Stack Development
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** ay7267624@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/ayushyadav45
-
-🐙 **GitHub:** https://github.com/ayushyadav-engineer
+- Contribute to AI & ML repositories
+- Participate in Hackathons
+- Collaborate on Computer Vision projects
+- Build impactful open-source software
 
 ---
 
-## 🤝 Let's Collaborate
+# 💼 Internship
 
-I'm always interested in collaborating on projects related to:
+> **Open to internships in AI, Machine Learning, Computer Vision, Python Development and Software Engineering.**
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Web Development
-- Data Analytics
-- Open Source
+---
+
+# ⚡ Fun Facts
+
+- I enjoy building AI-powered software.
+- Computer Vision fascinates me.
+- I love solving real-world problems using Python.
+- Currently exploring LLMs and Generative AI.
+
+---
+
+# 📫 Connect
+
+- 📧 ay7267624@gmail.com
+- 💼 https://linkedin.com/in/ayushyadav45
+- 💻 https://github.com/ayushyadav-engineer
+- 📍 Faridabad, Haryana, India
 
 ---
 
 <p align="center">
+Thanks for visiting my profile.
 
-⭐ Thanks for visiting my profile!
-
+### Let's build intelligent solutions together.
 </p>
