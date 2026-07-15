@@ -18,22 +18,23 @@
 
 <table>
 <tr>
-<td width="56%">
+<td width="55%" valign="top">
 
 ## 👋 About Me
 
-Computer Science Engineering undergraduate focused on building intelligent software using AI, Machine Learning, Computer Vision, NLP and Python.
+Computer Science Engineering undergraduate passionate about building intelligent software with **Artificial Intelligence, Machine Learning, Computer Vision, NLP, Python, and Full-Stack Development**.
 
-- 🚀 Building practical AI solutions
-- 🧠 Continuous learner
-- 🤝 Open-source enthusiast
-- 💼 Open to internships
+- 🤖 Building practical AI applications
+- 🧠 Exploring Deep Learning & LLMs
+- 🚀 Creating real-world software
+- 🤝 Interested in Open Source
+- 💼 Open to AI / ML / Software Engineering Internships
 
 </td>
 
-<td width="44%" align="center">
+<td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="340" alt="Coding animation"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="360" alt="Coding"/>
 
 </td>
 </tr>
@@ -43,33 +44,33 @@ Computer Science Engineering undergraduate focused on building intelligent softw
 
 # 💻 TECHNOLOGY STACK
 
-### Languages
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css"/>
 
-### AI & Data
-`OpenCV` • `MediaPipe` • `Flask` • `NumPy` • `Pandas` • `face_recognition` • `Matplotlib`
+### AI • ML • Computer Vision
+`OpenCV` • `MediaPipe` • `face_recognition` • `NumPy` • `Pandas` • `Matplotlib` • `Flask`
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
-### Tools
+### Developer Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,tailwind"/>
 
-### Core Computer Science
-`DSA` • `OOP` • `OS` • `DBMS` • `CN` • `Software Engineering`
+### Core CS
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `Operating Systems` • `DBMS` • `Computer Networks` • `Software Engineering`
 
 ---
 
 # ⭐ FEATURED PROJECTS
 
-| 🚀 Project | Stack | Highlights |
+| Project | Technologies | Overview |
 |:--|:--|:--|
-| 🤖 **SmartAttend AI** | Python · OpenCV | Face recognition attendance with real-time automation *(In Development)* |
-| 👮 **Prisoner Face Detection** | Flask · SQLite | Recognition dashboard with preprocessing and live detection |
-| 😴 **Wake-Up Alert** | MediaPipe | Driver drowsiness monitoring |
-| 📰 **News Classification** | NLP · ML | Text classification pipeline |
-| 🌐 **Web Scraper** | Python | Automated structured data collection |
-| 🍽️ **Restaurant Homepage** | Bootstrap | Responsive modern UI |
+| 🤖 **SmartAttend AI** | Python • OpenCV • Face Recognition | 🚧 AI-powered attendance system with real-time facial recognition and automated attendance. |
+| 👮 **Intelligent Face Detection System** | Flask • SQLite • OpenCV | Prisoner recognition dashboard with image preprocessing, facial encoding and live detection. |
+| 😴 **Wake-Up Alert** | MediaPipe • OpenCV | Driver drowsiness detection with eye-state monitoring and instant alerts. |
+| 📰 **News Classification** | NLP • Machine Learning | Text preprocessing, feature extraction and supervised classification. |
+| 🌐 **Web Scraper** | Python | Automated web data collection, parsing and cleaning. |
+| 🍽️ **Restaurant Homepage** | HTML • CSS • Bootstrap • JavaScript | Responsive landing page with modern UI. |
 
 ---
 
@@ -85,49 +86,41 @@ Computer Science Engineering undergraduate focused on building intelligent softw
 
 # 📌 HIGHLIGHTS
 
-| Focus | Status |
-|:------|:------:|
-| AI Projects | ✅ |
+| Area | Status |
+|:--|:--:|
+| Artificial Intelligence | ✅ |
+| Machine Learning | ✅ |
 | Computer Vision | ✅ |
-| Open Source | 🚀 Growing |
-| Internship Ready | ✅ |
-| Continuous Learning | ♾️ |
+| Python Development | ✅ |
+| Open Source | 🚀 |
 
 ---
 
 # 💡 DEVELOPER PHILOSOPHY
 
-> *"Build software that solves real problems, keep learning, and improve a little every day."*
+> *"Build software that creates real-world impact through continuous learning and thoughtful engineering."*
 
 ---
 
 # 🤝 OPEN SOURCE
 
-Interested in collaborating on AI, Computer Vision, Python and automation projects.
+I'm always interested in collaborating on AI, Computer Vision, Python, automation, and software engineering projects.
 
 ---
 
 ## 📫 CONNECT
 
-<table width="100%">
-<tr>
-<td align="left">
-
-📧 **Email**  
-ay7267624@gmail.com
-
-💻 **GitHub**  
-github.com/ayushyadav-engineer
-
-💼 **LinkedIn**  
-linkedin.com/in/ayushyadav45
-
-📍 **Faridabad, Haryana, India**
-
-</td>
-</tr>
-</table>
+| | |
+|:--|:--|
+| 📧 Email | **ay7267624@gmail.com** |
+| 💻 GitHub | **github.com/ayushyadav-engineer** |
+| 💼 LinkedIn | **linkedin.com/in/ayushyadav45** |
+| 📍 Location | **Faridabad, Haryana, India** |
 
 <div align="center">
+
+### *Let's build intelligent solutions together.*
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24,30"/>
+
 </div>
