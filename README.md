@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= HERO BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0E27,100:00F0FF&height=300&section=header&text=AYUSH%20YADAV&fontSize=70&fontColor=00F0FF&fontAlignY=35&desc=%3C%20AI%20/%20ML%20ENGINEER%20%E2%80%A2%20COMPUTER%20VISION%20%E2%80%A2%20FULL%20STACK%20DEV%20%3E&descAlignY=55&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0E27,100:00F0FF&height=300&section=header&text=AYUSH%20YADAV&fontSize=70&fontColor=00F0FF&fontAlignY=35&desc=AI%20/%20ML%20ENGINEER%20%E2%80%A2%20COMPUTER%20VISION%20%E2%80%A2%20FULL%20STACK%20DEV&descAlignY=55&descSize=17&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=root%40ayush%3A~%24+whoami;Computer+Science+Engineer+%E2%80%A2+7th+Semester;Building+with+AI+%2B+Computer+Vision+%2B+Python;Currently+debugging+the+future...;Open+to+Software+%2F+AI+Engineering+Roles" alt="Typing SVG" />
 
@@ -23,7 +23,7 @@
 <br/>
 
 <!-- ================= ABOUT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20About%20Me%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65&desc=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20ABOUT_ME&fontSize=32&fontColor=00F0FF&fontAlignY=65&desc=&animation=fadeIn" width="100%"/>
 
 ```yaml
 identity:
@@ -69,7 +69,7 @@ Strengthening core <b>Data Structures & Algorithms</b>, deepening practical <b>M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0A0E27&height=3&width=1000" width="100%"/>
 
 <!-- ================= TECH STACK ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20Tech%20Stack%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20TECH_STACK&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -130,7 +130,7 @@ Strengthening core <b>Data Structures & Algorithms</b>, deepening practical <b>M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0A0E27&height=3&width=1000" width="100%"/>
 
 <!-- ================= GITHUB ANALYTICS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20GitHub%20Analytics%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20GITHUB_ANALYTICS&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -157,7 +157,7 @@ Strengthening core <b>Data Structures & Algorithms</b>, deepening practical <b>M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0A0E27&height=3&width=1000" width="100%"/>
 
 <!-- ================= PROJECTS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20Featured%20Projects%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20FEATURED_PROJECTS&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -229,7 +229,7 @@ Strengthening core <b>Data Structures & Algorithms</b>, deepening practical <b>M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0A0E27&height=3&width=1000" width="100%"/>
 
 <!-- ================= EDUCATION ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20Education%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20EDUCATION&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -250,7 +250,7 @@ Strengthening core <b>Data Structures & Algorithms</b>, deepening practical <b>M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0A0E27&height=3&width=1000" width="100%"/>
 
 <!-- ================= LEADERSHIP & VOLUNTEER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20Leadership%20%26%20Volunteer%20Work%20%2F%3E&fontSize=28&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20LEADERSHIP_%26_VOLUNTEER&fontSize=28&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -282,7 +282,7 @@ Strengthening core <b>Data Structures & Algorithms</b>, deepening practical <b>M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0A0E27&height=3&width=1000" width="100%"/>
 
 <!-- ================= SOFT SKILLS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20Soft%20Skills%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20SOFT_SKILLS&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Analytical_Thinking-000000?style=for-the-badge&labelColor=0A0E27&color=0A0E27&logoColor=00F0FF"/>
@@ -296,7 +296,7 @@ Strengthening core <b>Data Structures & Algorithms</b>, deepening practical <b>M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0A0E27&height=3&width=1000" width="100%"/>
 
 <!-- ================= ROADMAP & GOALS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20Learning%20Roadmap%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20LEARNING_ROADMAP&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 ```yaml
 data_structures_and_algorithms: [########..] 80%
@@ -307,7 +307,7 @@ full_stack_web_development:     [#######...] 70%
 cloud_fundamentals:             [####......] 40%
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%202026%20Goals%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%202026_GOALS&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 <table width="100%">
 <tr><td width="50%">🎯 Strengthen advanced <b>DSA</b> and <b>System Design</b> fundamentals</td><td width="50%">🎯 Build and ship a full end-to-end <b>ML / CV product</b></td></tr>
@@ -318,7 +318,7 @@ cloud_fundamentals:             [####......] 40%
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0A0E27&height=3&width=1000" width="100%"/>
 
 <!-- ================= FUN FACTS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20Fun%20Facts%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20FUN_FACTS&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 <table width="100%">
 <tr><td width="50%">🧠 I enjoy breaking down real-world problems into clean, testable code</td><td width="50%">👁️ Computer Vision projects let me combine math, code, and creativity</td></tr>
@@ -328,7 +328,7 @@ cloud_fundamentals:             [####......] 40%
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0A0E27&height=3&width=1000" width="100%"/>
 
 <!-- ================= CONNECT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%3C%20Connect%20With%20Me%20%2F%3E&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=70&section=header&text=%2F%2F%20CONNECT_WITH_ME&fontSize=32&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ayushyadav-engineer/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A0E27"/></a>
