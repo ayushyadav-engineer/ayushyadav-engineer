@@ -12,7 +12,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/ayushyadav-engineer/)
-<a href="https://www.linkedin.com/in/ayushyadav-engineer/"><img src="https://cdn.simpleicons.org/linkedin/00F0FF" width="28" height="28" alt="LinkedIn logo" /></a>
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:ay7267624@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayushyadav-engineer)
 
