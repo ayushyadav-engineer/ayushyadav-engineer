@@ -12,6 +12,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/ayushyadav-engineer/)
+<a href="https://www.linkedin.com/in/ayushyadav-engineer/"><img src="https://cdn.simpleicons.org/linkedin/00F0FF" width="28" height="28" alt="LinkedIn logo" /></a>
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:ay7267624@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayushyadav-engineer)
 
@@ -22,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ================= ABOUT ME ================= -->
-## `01` — About Me
+## 🧠 About Me
 
 ```python
 class AyushYadav:
@@ -44,13 +45,13 @@ me.say_hi()
 
 <br/>
 
-## `02` — Professional Summary
+## 📄 Professional Summary
 
 > A Computer Science Engineering undergraduate in his 7th semester with hands-on, project-driven experience across **Artificial Intelligence, Machine Learning, Computer Vision, Web Development, and Data Analytics**. Comfortable across the stack — from training and deploying vision models with **Python and OpenCV**, to building backend services with **Flask** and relational data layers with **SQL**. Deeply passionate about **software engineering** and designing **intelligent, real-world systems**.
 
 <br/>
 
-## `03` — Current Focus
+## 🎯 Current Focus
 
 <table>
 <tr>
@@ -78,7 +79,7 @@ me.say_hi()
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ================= TECH STACK ================= -->
-## `04` — Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming Languages
 <p>
@@ -93,74 +94,74 @@ me.say_hi()
 
 ### Frontend
 <p>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF2E97"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF2E97"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF2E97"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FF2E97"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FF2E97"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=B026FF"/>
 </p>
 
 ### AI & Machine Learning
 <p>
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=readthedocs&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=readthedocs&logoColor=39FF14"/>
 </p>
 
 ### Computer Vision
 <p>
-<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Face_Recognition-000000?style=for-the-badge&logo=face-api&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/Face_Recognition-000000?style=for-the-badge&logo=face-api&logoColor=FF6B00"/>
 </p>
 
 ### Databases
 <p>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFE700"/>
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFE700"/>
 </p>
 
 ### Developer Tools
 <p>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=0AEFFF"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=0AEFFF"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0AEFFF"/>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=0AEFFF"/>
 </p>
 
 ### Operating Systems
 <p>
-<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF003C"/>
 </p>
 
 ### Computer Science Fundamentals
 <p>
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=codeigniter&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logo=oracle&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Operating_Systems-000000?style=for-the-badge&logo=linux&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Computer_Networks-000000?style=for-the-badge&logo=cisco&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=D400FF"/>
+<img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=codeigniter&logoColor=D400FF"/>
+<img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logo=oracle&logoColor=D400FF"/>
+<img src="https://img.shields.io/badge/Operating_Systems-000000?style=for-the-badge&logo=linux&logoColor=D400FF"/>
+<img src="https://img.shields.io/badge/Computer_Networks-000000?style=for-the-badge&logo=cisco&logoColor=D400FF"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ================= GITHUB ANALYTICS ================= -->
-## `05` — GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&cache_seconds=86400"/>
 
-<img src="https://streak-stats.demolab.com?user=ayushyadav-engineer&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
+<img src="https://streak-stats.demolab.com?user=ayushyadav-engineer&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&cache_seconds=86400"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav-engineer&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff" width="100%"/>
 
@@ -174,55 +175,46 @@ me.say_hi()
 <img src="https://raw.githubusercontent.com/ayushyadav-engineer/ayushyadav-engineer/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> To activate the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repository — it will auto-generate `github-contribution-grid-snake-dark.svg` on the `output` branch.
+> To activate the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repository — it will auto-generate `github-contribution-grid-snake-dark.svg` on the `output` branch. Until that Action has run at least once, this image will not render.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ================= DEV QUOTE ================= -->
-<div align="center">
-
-### Quote of the Moment
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ================= PROJECTS ================= -->
-## `06` — Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Intelligent Face Detection System for Prisoners
+### ⚡ Intelligent Face Detection System for Prisoners
 Real-time facial recognition system built for identifying prisoners using computer vision, designed for accuracy and fast lookup against a stored records database.
 
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Face_Recognition-000000?style=flat-square&logo=face-api&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/OpenCV-0D0D0D?style=for-the-badge&logo=opencv&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/Flask-0D0D0D?style=for-the-badge&logo=flask&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/SQLite-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=FFE700"/>
+<img src="https://img.shields.io/badge/Face_Recognition-0D0D0D?style=for-the-badge&logo=face-api&logoColor=FF6B00"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayushyadav-engineer)
+[![Repo](https://img.shields.io/badge/View_Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=D400FF)](https://github.com/ayushyadav-engineer)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 News Article Classification Using NLP
+### ⚡ News Article Classification Using NLP
 Machine learning based news categorization system that applies NLP preprocessing and feature extraction to classify articles into topical categories.
 
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/NLP-000000?style=flat-square&logo=readthedocs&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/NLP-0D0D0D?style=for-the-badge&logo=readthedocs&logoColor=39FF14"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayushyadav-engineer)
+[![Repo](https://img.shields.io/badge/View_Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=D400FF)](https://github.com/ayushyadav-engineer)
 
 </td>
 </tr>
@@ -230,29 +222,29 @@ Machine learning based news categorization system that applies NLP preprocessing
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Restaurant Landing Page
+### ⚡ Restaurant Landing Page
 A fully responsive, modern restaurant website featuring smooth animations and a polished, attractive UI for showcasing menus and brand identity.
 
 <p>
-<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/HTML-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF2E97"/>
+<img src="https://img.shields.io/badge/CSS-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF2E97"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF2E97"/>
+<img src="https://img.shields.io/badge/Bootstrap-0D0D0D?style=for-the-badge&logo=bootstrap&logoColor=FF2E97"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayushyadav-engineer)
+[![Repo](https://img.shields.io/badge/View_Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=D400FF)](https://github.com/ayushyadav-engineer)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 Sleep Alarm using Python
+### ⚡ Sleep Alarm using Python
 A desktop alarm application that lets users schedule and manage reminders, built as a lightweight standalone Python utility.
 
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00F0FF"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayushyadav-engineer)
+[![Repo](https://img.shields.io/badge/View_Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=D400FF)](https://github.com/ayushyadav-engineer)
 
 </td>
 </tr>
@@ -260,30 +252,30 @@ A desktop alarm application that lets users schedule and manage reminders, built
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Virtual Keyboard and Mouse
+### ⚡ Virtual Keyboard and Mouse
 Hand gesture controlled virtual keyboard and mouse system that uses real-time hand tracking to translate hand movements into keyboard and mouse input.
 
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/MediaPipe-000000?style=flat-square&logo=google&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/OpenCV-0D0D0D?style=for-the-badge&logo=opencv&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/MediaPipe-0D0D0D?style=for-the-badge&logo=google&logoColor=FF6B00"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayushyadav-engineer)
+[![Repo](https://img.shields.io/badge/View_Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=D400FF)](https://github.com/ayushyadav-engineer)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 WebScraper using SQLAlchemy
+### ⚡ WebScraper using SQLAlchemy
 An automated web scraping pipeline that collects, cleans, and stores structured data into a SQL database using an ORM-driven workflow.
 
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square&logo=python&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=python&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-0D0D0D?style=for-the-badge&logo=python&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-0D0D0D?style=for-the-badge&logo=python&logoColor=39FF14"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayushyadav-engineer)
+[![Repo](https://img.shields.io/badge/View_Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=D400FF)](https://github.com/ayushyadav-engineer)
 
 </td>
 </tr>
@@ -292,63 +284,27 @@ An automated web scraping pipeline that collects, cleans, and stores structured 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ================= EDUCATION ================= -->
-## `07` — Education
+## 🎓 Education
 
-<table width="100%">
-<tr>
-<td width="70%">
-
-**B.Tech in Computer Science Engineering**
-Aravali College of Engineering & Management
-*(Affiliated to J.C. Bose University of Science & Technology, YMCA)*
-
-Current Semester: **7th** &nbsp;|&nbsp; Expected Graduation: **2027**
-
-</td>
-<td width="30%" align="right">
-
-`Class XII` — 73%
-`Class X` — 86%
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ================= LEADERSHIP ================= -->
-## `08` — Leadership Experience
-
-- **Project Leader** — Led an Academic Software Development Project from planning through execution
-- **Active Club Member** — Contributed regularly to club activities and initiatives
-- Assisted in organizing **technical and academic events** at the college level
-
-<br/>
-
-## `09` — Volunteer Experience
-
-- Assisted in organizing **College Technical Fest** activities
-- Participated in **community awareness and social service** initiatives
-- Supported **event coordination** during departmental activities
+**B.Tech in Computer Science Engineering** — Aravali College of Engineering & Management (J.C. Bose UST, YMCA)
+7th Semester • Expected Graduation 2027 • Class XII: 73% • Class X: 86%
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ================= SOFT SKILLS ================= -->
-## `10` — Soft Skills
+## 🤝 Soft Skills
 
 <p>
-<img src="https://img.shields.io/badge/Analytical_Thinking-000000?style=for-the-badge&logoColor=00F0FF&color=000000&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Communication-000000?style=for-the-badge&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Leadership-000000?style=for-the-badge&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Adaptability-000000?style=for-the-badge&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Analytical_Thinking-0D0D0D?style=for-the-badge&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Problem_Solving-0D0D0D?style=for-the-badge&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Communication-0D0D0D?style=for-the-badge&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Teamwork-0D0D0D?style=for-the-badge&logoColor=00F0FF"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ================= ROADMAP ================= -->
-## `11` — Learning Roadmap
+## 🗺️ Learning Roadmap
 
 ```
 [■■■■■■■■□□] Data Structures & Algorithms
@@ -359,7 +315,7 @@ Current Semester: **7th** &nbsp;|&nbsp; Expected Graduation: **2027**
 [■■■■□□□□□□] Cloud Fundamentals
 ```
 
-## `12` — 2026 Goals
+## 🌱 2026 Goals
 
 - 🎯 Strengthen advanced **DSA** and **System Design** fundamentals
 - 🎯 Build and ship a full end-to-end **ML/CV product**
@@ -370,7 +326,7 @@ Current Semester: **7th** &nbsp;|&nbsp; Expected Graduation: **2027**
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ================= FUN FACTS ================= -->
-## `13` — Fun Facts
+## ✨ Fun Facts
 
 - 🧠 I enjoy breaking down real-world problems into clean, testable code
 - 👁 Computer Vision projects are where I get to combine math, code, and creativity
@@ -380,11 +336,12 @@ Current Semester: **7th** &nbsp;|&nbsp; Expected Graduation: **2027**
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ================= CONNECT ================= -->
-## `14` — Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/ayushyadav-engineer/)
+<a href="https://www.linkedin.com/in/ayushyadav-engineer/"><img src="https://cdn.simpleicons.org/linkedin/00F0FF" width="28" height="28" alt="LinkedIn logo" /></a>
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:ay7267624@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayushyadav-engineer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://your-portfolio-link.com)
