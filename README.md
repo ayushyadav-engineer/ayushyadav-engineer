@@ -152,34 +152,6 @@ me.say_hi()
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ================= GITHUB ANALYTICS ================= -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&cache_seconds=86400"/>
-
-<img src="https://streak-stats.demolab.com?user=ayushyadav-engineer&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&cache_seconds=86400"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav-engineer&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushyadav-engineer&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
-### Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ayushyadav-engineer/ayushyadav-engineer/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> To activate the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repository — it will auto-generate `github-contribution-grid-snake-dark.svg` on the `output` branch. Until that Action has run at least once, this image will not render.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
