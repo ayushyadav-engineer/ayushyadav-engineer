@@ -1,244 +1,153 @@
- <div align="center">
+# 👋 Hey there, I'm Ayush Yadav!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:101B35,100:00D9FF&height=230&section=header&text=AYUSH%20YADAV&fontSize=58&fontColor=00D9FF&fontAlignY=38&desc=BUILDING%20%7C%20LEARNING%20%7C%20INNOVATING&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+### 🎓 Final-Year B.Tech CSE Student | 💻 Python Developer | 🚀 Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Python+%7C+AI%2FML+%7C+Computer+Vision;Turning+Ideas+Into+Real+Projects;Learning+Today.+Building+Tomorrow." />
+Welcome to my little corner of GitHub! 
 
-<br/>
+I'm a final-year Computer Science Engineering student who loves turning ideas into code, experimenting with new technologies, and learning something new every day.
 
-<a href="https://github.com/ayushyadav-engineer">
-<img src="https://img.shields.io/badge/GitHub-ayushyadav--engineer-111111?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-</a>
-<a href="https://www.linkedin.com/in/ayushyadav-engineer/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a>
-<a href="mailto:ay7267624@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
-</a>
+I'm not someone who knows everything (yet 😄), but I'm always curious, always building, and definitely not done learning!
 
-<img src="https://komarev.com/ghpvc/?username=ayushyadav-engineer&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
-
-</div>
+- 🔭 Currently working on academic and personal software projects
+- 🐍 Exploring Python, Web Development, AI/ML, and Computer Vision
+- 🛠️ Enjoy building practical projects and solving real-world problems
+- 📚 Learning, experimenting, debugging, and improving one commit at a time
+- 🎯 My goal: Grow into a skilled software engineer and build things that actually make a difference
+- ⚡ Fun fact: Sometimes the bug takes 5 minutes to fix, and sometimes it takes 5 hours. That's engineering! 😂
 
 ---
 
-## `$ whoami`
+## 🧑‍💻 A little about me
 
 ```python
-class Developer:
-
+class AyushYadav:
     def __init__(self):
         self.name = "Ayush Yadav"
-        self.role = "B.Tech CSE Undergraduate"
-        self.college = "Aravali College of Engineering and Management"
-        self.graduation = 2027
-        self.location = "India"
-
-        self.languages = [
-            "Python", "C", "C++", "SQL",
-            "JavaScript", "HTML", "CSS"
-        ]
-
+        self.education = "B.Tech - Computer Science Engineering"
+        self.status = "Final-Year Engineering Student"
         self.interests = [
             "Software Development",
+            "Python Programming",
             "Artificial Intelligence",
             "Machine Learning",
-            "Computer Vision",
-            "Backend Development"
+            "Computer Vision"
         ]
+        self.current_focus = "Learning by building projects"
+        self.mindset = "Progress over perfection 🚀"
 
-        self.currently_learning = [
-            "Data Structures & Algorithms",
-            "Advanced Python",
-            "Machine Learning",
-            "Software Engineering"
-        ]
+    def say_hello(self):
+        print("Thanks for stopping by my GitHub! Let's build something cool.")
 
-    def mission(self):
-        return "Build useful technology and keep improving."
-
-
-me = Developer()
-print(me.mission())
+me = AyushYadav()
+me.say_hello()
 ```
 
-I'm a Computer Science Engineering student who enjoys turning ideas into working software. I believe in learning by building, experimenting with new technologies, solving problems, and improving my development skills through real-world projects.
+---
 
-My goal is to become a skilled software engineer who can design, develop, and deploy reliable applications.
+## ⚙️ My Tech Playground
+
+I'm constantly exploring and improving my skills. Here's what I've been working with:
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**AI / ML & Data**
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## `$ tech_stack --list`
+## 🚀 Projects I've Been Building
 
-### Programming Languages
+A few projects from my learning and development journey:
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql&theme=dark"/>
-</p>
+### 📰 News Article Classification using NLP
+Exploring Natural Language Processing and machine learning to classify news articles into meaningful categories.
 
-### Frontend Development
+**Focus:** Python, NLP, TF-IDF, Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark"/>
-</p>
+### 🕸️ Web Scraper using Python & SQLAlchemy
+A project focused on collecting, processing, and storing web data using Python and database technologies.
 
-### Backend Development
+**Focus:** Python, SQLAlchemy, MySQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask&theme=dark"/>
-</p>
+### 🚗 SmartDrive AI
+Experimenting with computer vision to detect signs of driver drowsiness and improve driving safety.
 
-### AI / Machine Learning / Data Science
+**Focus:** Python, MediaPipe, Computer Vision
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,opencv&theme=dark"/>
-</p>
+### 🌐 Restaurant Landing Page
+A front-end web development project focused on creating a clean and attractive restaurant website.
 
-**Additional technologies:** NLTK, Pandas, NumPy, TF-IDF, MediaPipe and Joblib.
+**Focus:** HTML, CSS, JavaScript
 
-### Database & Developer Tools
+### ⏰ Sleep Alarm using Python
+A Python-based alarm project built as part of my programming experiments.
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,visualstudio,linux,windows&theme=dark"/>
-</p>
+**Focus:** Python
 
 ---
 
-## `$ ls ./featured-projects`
+## 📈 My GitHub Journey
 
-### 01. News Article Classification Using NLP
+I believe every repository tells a story — every project, every bug fixed, and every commit is part of the learning process.
 
-<img src="https://img.shields.io/badge/PROJECT-NLP%20%26%20MACHINE%20LEARNING-111111?style=flat-square&logo=python&logoColor=00D9FF"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=tokyonight&hide_border=true)
 
-A machine learning-based application designed to classify news articles using Natural Language Processing techniques.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=tokyonight&hide_border=true)
 
-**Technologies:** Python, NLP, Scikit-learn, Flask, TF-IDF (where implemented).
-
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/ayushyadav-engineer/News-Article-Classification-NLP)
-
-### 02. ScrapeFlow – Web Scraper
-
-<img src="https://img.shields.io/badge/PROJECT-WEB%20AUTOMATION-111111?style=flat-square&logo=python&logoColor=00D9FF"/>
-
-A Python-based web scraping application focused on collecting, processing, and managing structured information with database integration and security improvements.
-
-**Technologies:** Python, Flask, MySQL, SQLAlchemy, HTML, CSS.
-
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/ayushyadav-engineer/Webscraper-SQLAlchemy)
-
-### 03. SmartDrive AI – Driver Sleep Detection
-
-<img src="https://img.shields.io/badge/PROJECT-COMPUTER%20VISION-111111?style=flat-square&logo=python&logoColor=00D9FF"/>
-
-A computer vision-based project exploring driver drowsiness detection using facial landmarks and real-time monitoring.
-
-**Technologies:** Python, MediaPipe, OpenCV, Pygame.
-
-### 04. Restaurant Landing Page
-
-<img src="https://img.shields.io/badge/PROJECT-FRONTEND%20DEVELOPMENT-111111?style=flat-square&logo=html5&logoColor=00D9FF"/>
-
-A responsive restaurant website with a modern visual design, polished layout and interactive frontend elements.
-
-**Technologies:** HTML, CSS, JavaScript.
-
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/ayushyadav-engineer/restaurant-landing-page)
-
-### 05. Sleep Alarm Using Python
-
-<img src="https://img.shields.io/badge/PROJECT-PYTHON%20APPLICATION-111111?style=flat-square&logo=python&logoColor=00D9FF"/>
-
-A Python desktop application developed to explore alarm scheduling and notification functionality.
-
-**Technologies:** Python, Pygame.
-
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/ayushyadav-engineer/Sleep-Alarm-Using-Python)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushyadav-engineer&theme=tokyonight&hide_border=true)
 
 ---
 
-## `$ education --info`
+## 🎯 What's Next?
 
-🎓 **Bachelor of Technology – Computer Science & Engineering**
+Being in my final year doesn't mean the learning stops. In fact, it's just getting started!
 
-**Aravali College of Engineering and Management**
-
-- Academic Session: 2026–2027
-- Expected Graduation: 2027
-- Current Status: Final-Year Undergraduate
-
----
-
-## `$ current_status`
-
-```text
-┌─────────────────────────────────────────┐
-│           DEVELOPER STATUS              │
-├─────────────────────────────────────────┤
-│  [ACTIVE]  Building Python Projects     │
-│  [LEARNING] Data Structures & Algorithms│
-│  [LEARNING] Machine Learning            │
-│  [EXPLORING] Computer Vision             │
-│  [FOCUS] Software Engineering           │
-│  [GOAL] Internship / Entry-Level Role    │
-└─────────────────────────────────────────┘
-```
-
-### 2026–2027 Learning Roadmap
-
-- [ ] Strengthen Data Structures & Algorithms.
-- [ ] Improve problem-solving skills.
-- [ ] Build advanced Python applications.
-- [ ] Develop and deploy end-to-end AI/ML projects.
-- [ ] Learn software design and system architecture.
-- [ ] Contribute to open-source projects.
-- [ ] Prepare for software engineering opportunities.
+- 💡 Build more practical and meaningful projects
+- 🧠 Strengthen my Data Structures and Algorithms
+- 🤖 Explore AI, ML, and Computer Vision
+- 🌱 Improve my software development skills
+- 🤝 Collaborate with developers and learn from the community
+- 💼 Prepare for exciting opportunities in the tech industry
 
 ---
 
-## `$ github --stats`
+## 🤝 Let's Connect!
 
-<div align="center">
+I'm always happy to connect with fellow students, developers, and tech enthusiasts. Let's share ideas, collaborate on projects, and grow together!
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-engineer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushyadav-engineer&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav-engineer&bg_color=0D1117&color=00D9FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushyadav-engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushyadav-engineer/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay7267624@gmail.com)
 
 ---
 
-## `$ connect --with-ayush`
+### 💬 A little reminder to myself:
 
-I'm always interested in learning, collaborating, discussing technology and building meaningful projects.
+*"I may be a student today, but I'm building the skills to create something extraordinary tomorrow."*
 
-<div align="center">
+**Thanks for visiting my profile! Keep coding, keep exploring, and never stop learning.** 🚀
 
-<a href="https://github.com/ayushyadav-engineer">
-<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ayushyadav-engineer/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a>
-
-<a href="mailto:ay7267624@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say_Hello-111111?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
-</a>
-
-<br/><br/>
-
-**"First, solve the problem. Then, write the code."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:101B35,100:080808&height=120&section=footer"/>
-
-<sub>Designed & maintained by Ayush Yadav | 2026–2027</sub>
-
-</div>
+⭐ If you find something interesting in my repositories, feel free to star it!
